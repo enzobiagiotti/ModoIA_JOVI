@@ -5,7 +5,7 @@
 ## Links
 
 - **Deploy na Vercel:** https://sprint2-front-end-1-espv.vercel.app/
-- **Repositório Git:** https://github.com/enzobiagiotti/React_ModoIA_JOVI
+- **Repositório Git:** https://github.com/enzobiagiotti/ModoIA_JOVI.git
 - **Protótipo Figma:** https://www.figma.com/design/AQ9DinKnuI6V1tQcUPmyw9
 
 ---
